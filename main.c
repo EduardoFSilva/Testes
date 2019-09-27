@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Hello MEGAZORD!");
+	printf("Hello RAPAZIADA!");
 	
 	return 0;
 }
